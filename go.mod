@@ -1,6 +1,6 @@
 module api-with-echo
 
-go 1.21.6
+go 1.22.1
 
 require github.com/labstack/echo v3.3.10+incompatible
 
